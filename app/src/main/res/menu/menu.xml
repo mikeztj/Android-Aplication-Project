@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/topTravel"
+        android:title="Top Travel Destination"/>
+
+    <item android:id="@+id/travelHistory"
+          android:title="Travel History"/>
+
+</menu>
